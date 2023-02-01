@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/UYGUR_HOLDING_VIDEOLAR/static/css/main.eec19321.css",
-    "main.js": "/UYGUR_HOLDING_VIDEOLAR/static/js/main.b6a17254.js",
+    "main.css": "/UYGUR_HOLDING_VIDEOLAR/static/css/main.04126b00.css",
+    "main.js": "/UYGUR_HOLDING_VIDEOLAR/static/js/main.6e440be8.js",
     "service-worker.js": "/UYGUR_HOLDING_VIDEOLAR/service-worker.js",
     "index.html": "/UYGUR_HOLDING_VIDEOLAR/index.html"
   },
   "entrypoints": [
-    "static/css/main.eec19321.css",
-    "static/js/main.b6a17254.js"
+    "static/css/main.04126b00.css",
+    "static/js/main.6e440be8.js"
   ]
 }
