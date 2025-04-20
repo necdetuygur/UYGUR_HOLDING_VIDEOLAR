@@ -1,0 +1,17 @@
+{
+  "name": "UYGUR HOLDING VIDEOLAR",
+  "short_name": "UYGUR HOLDING VIDEOLAR",
+  "description": "UYGUR HOLDING VIDEOLAR",
+  "scope": "https://necdetuygur.github.io/UYGUR_HOLDING_VIDEOLAR/",
+  "start_url": "https://necdetuygur.github.io/UYGUR_HOLDING_VIDEOLAR/",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://necdetuygur.github.io/UYGUR_HOLDING_VIDEOLAR/favicon.ico",
+      "type": "image/png",
+      "sizes": "700x700"
+    }
+  ]
+}

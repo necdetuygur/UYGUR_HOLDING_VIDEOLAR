@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/UYGUR_HOLDING_VIDEOLAR/static/css/main.03bd4274.css",
+    "main.js": "/UYGUR_HOLDING_VIDEOLAR/static/js/main.10304bcc.js",
+    "service-worker.js": "/UYGUR_HOLDING_VIDEOLAR/service-worker.js",
+    "index.html": "/UYGUR_HOLDING_VIDEOLAR/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.03bd4274.css",
+    "static/js/main.10304bcc.js"
+  ]
+}
